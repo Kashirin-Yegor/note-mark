@@ -1,5 +1,5 @@
 # 📝 Note Mark
-## Note Mark is a powerful and convenient note editor inspired by Obsidian. Lightweight, fast, and flexible, it allows you to efficiently organize your thoughts, create interconnected notes, and work seamlessly with Markdown.
+<b>Note Mark</b> is a powerful and convenient note editor inspired by Obsidian. Lightweight, fast, and flexible, it allows you to efficiently organize your thoughts, create interconnected notes, and work seamlessly with Markdown.
 
 ### 🚀 Features
 ✅ Markdown Editor — Full support for Markdown syntax for easy text formatting.<br>
@@ -19,8 +19,8 @@ npm start
 You can change themes and customize the editor by modifying the config.json file.
 
 ### 📌 Future Plans
-🔗 Graph View — Visualization of note connections
-☁️ Cloud Sync — Ability to store notes in the cloud
-📱 Mobile Version — UI adaptation for smartphones
-📜 License
+🔗 Graph View — Visualization of note connections<br>
+☁️ Cloud Sync — Ability to store notes in the cloud<br>
+📱 Mobile Version — UI adaptation for smartphones<br>
+### 📜 License
 This project is distributed under the MIT License.
