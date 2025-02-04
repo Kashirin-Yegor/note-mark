@@ -1,34 +1,26 @@
-# note-mark
+# 📝 Note Mark
+## Note Mark is a powerful and convenient note editor inspired by Obsidian. Lightweight, fast, and flexible, it allows you to efficiently organize your thoughts, create interconnected notes, and work seamlessly with Markdown.
 
-An Electron application with React and TypeScript
+### 🚀 Features
+✅ Markdown Editor — Full support for Markdown syntax for easy text formatting.<br>
+✅ Linked Notes — Ability to connect notes, creating a personal knowledge base.<br>
+✅ Lightweight & Fast — Minimal system requirements, smooth performance without lags.<br>
+✅ Local Storage — All notes are stored on your device, ensuring data security.<br>
+✅ Flexible Customization — Themes, hotkeys, and various settings for a personalized experience.<br>
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
+```sh
+git clone https://github.com/Kashirin-Yegor/note-mark.git
+cd note-mark
+npm install
+npm start
 ```
 
-### Development
+### 🎨 Themes & Customization
+You can change themes and customize the editor by modifying the config.json file.
 
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+### 📌 Future Plans
+🔗 Graph View — Visualization of note connections
+☁️ Cloud Sync — Ability to store notes in the cloud
+📱 Mobile Version — UI adaptation for smartphones
+📜 License
+This project is distributed under the MIT License.
